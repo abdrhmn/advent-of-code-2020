@@ -2,4 +2,4 @@
 
 This is my solition of [Advent of Code](https://adventofcode.com/)
 
-Disclaimer: I'm a novice in Python, and used these programming challenges as practice.
+<sub>Disclaimer: I'm a novice Python developer. I'm solving these programming challenges as practice.</sub>
